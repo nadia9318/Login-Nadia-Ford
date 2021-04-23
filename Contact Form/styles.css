@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: #faf9f9;
+    margin: 5rem;
+    
+   
+}
+
+.font-color {
+    color: #555b6e;
+}
+
+.icon {
+    color: #bee3db;
+}
+
+.form-floating {
+   width: 50%;
+    margin: 1.5rem auto;
+    font-size: 0.75rem;
+}
+
+.checkbox {
+    padding: 1%;
+}
+
+button {
+    padding: 5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+    cursor: pointer;
+}
+
+button:hover {
+    color: #89b0ae;
+}
+
